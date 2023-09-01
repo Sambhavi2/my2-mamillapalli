@@ -21,3 +21,8 @@ If you're looking for exciting and healthy ways to stay active, consider trying 
 | Hiking | An excellent way to connect with nature. | 4-6 hours |
 | Swimming | A full-body workout that's easy on the joints.| 3-5 hours |  
 | Cycling | Enjoy the freedom of exploring on two wheels. | 6-8 hours |
+---
+## Inspiring Quotes by Scientists
+> The good thing about science is that it's true whether or not you believe in it. - *Neil deGrasse Tyson*
+
+> Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world. - *Louis Pasteur*
