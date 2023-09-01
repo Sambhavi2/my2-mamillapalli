@@ -13,6 +13,7 @@ Niagara Falls is an **amazing waterfall** on the border of the US and Canada. It
 - Seasonal veggies<br>
 [MyStats](https://github.com/Sambhavi2/my2-mamillapalli/blob/main/MyStats.md)
 ---
+## Sports Recommendations
 If you're looking for exciting and healthy ways to stay active, consider trying out these sports. Each sport offers its unique benefits, and I highly recommend them for a fun and active lifestyle.
 | Sport Name | Reason | Weekly Hours |
 | --- | --- | ---: |
