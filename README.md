@@ -10,5 +10,13 @@ Niagara Falls is an **amazing waterfall** on the border of the US and Canada. It
 - Local specialties you can enjoy at Niagara Falls:
 - Fish fry
 - sponge candy
-- Seasonal veggies
+- Seasonal veggies<br>
 [MyStats](https://github.com/Sambhavi2/my2-mamillapalli/blob/main/MyStats.md)
+---
+If you're looking for exciting and healthy ways to stay active, consider trying out these sports. Each sport offers its unique benefits, and I highly recommend them for a fun and active lifestyle.
+| Sport Name | Reason | Weekly Hours |
+| --- | --- | ---: |
+| Tennis | Great for improving agility and teamwork. | 5-7 hours |
+| Hiking | An excellent way to connect with nature. | 4-6 hours |
+| Swimming | A full-body workout that's easy on the joints.| 3-5 hours |  
+| Cycling | Enjoy the freedom of exploring on two wheels. | 6-8 hours |
