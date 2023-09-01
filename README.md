@@ -7,3 +7,7 @@ Niagara Falls is an **amazing waterfall** on the border of the US and Canada. It
 1. Taking a thrilling boat ride on the Maid of the Mist to get up close to the falls.
 2. Exploring the Cave of the Winds to experience the power of Bridal Veil Falls.
 3. Enjoying the breathtaking views from various observation points along the rim.
+- Local specialties you can enjoy at Niagara Falls:
+- Fish fry
+- sponge candy
+- Seasonal veggies
