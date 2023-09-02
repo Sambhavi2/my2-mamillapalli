@@ -26,3 +26,12 @@ If you're looking for exciting and healthy ways to stay active, consider trying 
 > The good thing about science is that it's true whether or not you believe in it. - *Neil deGrasse Tyson*
 
 > Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world. - *Louis Pasteur*
+---
+## Code Snippet
+>Open Link in a New Window
+<https://stackoverflow.com/questions/13335954/how-can-i-make-a-html-a-href-hyperlink-open-a-new-window>
+```
+ <a href="http://chriscoyier.net" target="_blank">This link will open in new window/tab</a>
+ ```
+
+ code snippet source: <https://css-tricks.com/snippets/html/open-link-in-a-new-window/>
